@@ -1,0 +1,76 @@
+.resturantimage{
+    background-image: url('https://html.themexriver.com/Saasio/assets/img/res/d1.jpg');
+    height: 100vh;
+    width: 100%;
+}
+.buttonstyle{
+    background-color: #C9AB81;
+    border: 1px solid #C9AB81;
+}
+.buttonstyle:hover{
+    border-color: #C9AB81;
+    background-color:rgba(0, 0, 0, 0.1);
+        color: white;
+}
+.navbarbtnstyle{
+    background-color: #C9AB81;
+    border: 1px solid #C9AB81;
+    color: white;
+}
+.navbarbtnstyle:hover{
+    border-color: #C9AB81;
+    background-color:rgba(0, 0, 0, 0.1);
+        color: white;
+}
+.textstyle{
+    color: #C9AB81 ;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.linkstyle{
+    text-decoration: none;
+}
+.containerstyle{
+    background-color: #0E1415;
+    margin-top: -25px;
+}
+.s1style{
+    color: #C9AB81;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.s4style{
+    background-color: #06090A;
+}
+.s5style{
+    background-color: #06090A;
+}
+.borderstyle{
+    border-bottom:1px white dotted;
+    
+}
+.menudesign{
+    border-bottom:1px grey dotted;
+}
+.dolardesign{
+    color:  #C9AB81;
+}
+.imagedesign{
+ background-image: url('https://html.themexriver.com/Saasio/assets/img/res/v-bg.jpg'); 
+ height: 100vh;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.imageshade{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100vh;
+    width: 100%;
+}
+.s7style{
+    background-color: #06090A;
+}
+.s73rstyle{
+    background-color: #C9AB81;
+}
+.s8style{
+    background-color: #0D1213;
+}
